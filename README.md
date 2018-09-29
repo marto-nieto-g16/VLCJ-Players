@@ -1,6 +1,8 @@
 
 VLC Media Player es un reproductor multimedia de código abierto muy popular desarrollado por el proyecto VideoLAN. VLCJ es un proyecto que permite trabajar con una instancia de VLC en java.
 
+<img src="https://github.com/marto-nieto-g16/VLCJ-Players/blob/master/vlcj.png" border="1" alt="Reproductor VLCJ en Java" width="400" height="300">
+
 # VLCJ-Players
 
 Reproductor de videos que usa la librería VLCJ y
