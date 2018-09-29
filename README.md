@@ -15,7 +15,7 @@ finalmente se podrá sacar capturas del video en cualquier punto de reproducció
 
 # Requisitos
 
-    Librería VLCJ (<A href=http://www.java2s.com/Code/Jar/v/Downloadvlcjjar.htm">descargar</A>.)
+    Librería VLCJ ([a link](http://www.java2s.com/Code/Jar/v/Downloadvlcjjar.htm))
     Librería JNA (<A href="http://www.java2s.com/Code/Jar/j/Downloadjna330platformjar.htm">descargar</A>.)
     Librerías libvlc.dll y libvlccore.dll
     IDE Netbeans 7.x o superior
